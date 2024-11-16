@@ -1,0 +1,4 @@
+Taisia Sokolovskaya
+finish: 5.72 seconds
+number of HTTP: 49 requests
+data transferred: 855 KB
